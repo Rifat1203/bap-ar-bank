@@ -10,7 +10,7 @@ document.getElementById('login-button').addEventListener('click', function(){
 
     if(emailfield == 'rifat50@gmail.com' && passwordfield == 'secret'){
         
-        window.location.href="bank.html"
+        window.location.href="index2.html"
     }
 
 })
